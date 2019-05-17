@@ -1,8 +1,8 @@
-# AS4SR/general_info
+# SITL for Ardupilot Testing
 
-This repository was mainly set up for the existence and use of the associated wiki page.
+This repository was mainly set up for testing copter using SITL and MAvproxy.
 
-
+Here SITL is used as the simulator and Mavproxy is used as the GCS(Ground Control Station)
 
 ArduPilot: Instructions to set up and run an autopilot using SITL and Gazebo simulator
 
